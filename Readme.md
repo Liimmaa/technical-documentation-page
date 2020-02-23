@@ -1,0 +1,1 @@
+A simple technical documentation page on basic JavaScript.
